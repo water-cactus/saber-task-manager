@@ -10,3 +10,5 @@ Examples:
     python main.py list tasks
     python main.py get builds approach_important
     python main.py get tasks design_olive_cyclops
+   
+Для тестирования необходимо запустить test_task_manager.py
